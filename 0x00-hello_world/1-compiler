@@ -1,0 +1,10 @@
+ gcc -c "$CFILE" -o main.o
+
+if  [ $? -eq 0 ] ; then 
+echo "compilation succesful"
+
+else 
+
+echo "compilation not successful"
+
+fi
