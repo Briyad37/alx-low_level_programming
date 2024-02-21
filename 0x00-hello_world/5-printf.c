@@ -3,7 +3,7 @@
 /**
  * main -prints "with proper grammar, but the outcome is a piece of art,"
  *
- * returns: 0 when suceesful, non-zero with failure
+ * Returns: 0 on  sucees, non-zero on failures
  */
 
 int main(void)
