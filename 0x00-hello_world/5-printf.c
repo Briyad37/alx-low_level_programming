@@ -3,11 +3,11 @@
 /**
  * main -prints "with proper grammar, but the outcome is a piece of art,"
  *
- * Returns: 0 on  sucees, non-zero on failures
+ * Returns: 0 (always)
  */
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
