@@ -1,9 +1,2 @@
 #!/bin/bash
-
-if [ -z "$CFILE"  ]; then 
- 
- echo "empty"
- exit 1
-fi
-
 cpp "$CFILE" -o c
